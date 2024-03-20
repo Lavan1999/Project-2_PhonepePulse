@@ -20,10 +20,10 @@ Workflow of the Project:
 
 Data Collection:
 
-1.The first step is to collect data from the Github using the Github link. 2. Once created the clone of GIT-HUB repository then,
-imported required libraries for the program.
-2.Extracted from the Github link used to retrieve Aggregated Transaction, Aggregated User, Map Transaction, Map user, Top Transaction, Top user. 
-3.I have used this to connect direct path to get the data as states for Python to make requests
+1.The first step is to collect data from the Github using the Github link. 
+2.Once created the clone of GIT-HUB repository then,imported required libraries for the program.
+3.Extracted from the Github link used to retrieve Aggregated Transaction, Aggregated User, Map Transaction, Map user, Top Transaction, Top user. 
+4.I have used this to connect direct path to get the data as states for Python to make requests
 to the Data and the responses are Collected as a Dictionary (Data Collection)
 
 Create DataFrame:
