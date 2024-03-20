@@ -28,8 +28,8 @@ to the Data and the responses are Collected as a Dictionary (Data Collection)
 
 Create DataFrame:
 
-1.Once the Data Collection is done, then I used pandas to create dataframe for the collected datas
-For the 6 Dataset of
+Once the Data Collection is done, then I used pandas to create dataframe for the collected datas
+For the 6 Dataset:
 1.Aggregated Transaction
 2.Aggregated User
 3.Map Transaction
