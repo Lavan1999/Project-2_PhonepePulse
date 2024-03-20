@@ -30,12 +30,13 @@ Create DataFrame:
 
 Once the Data Collection is done, then I used pandas to create dataframe for the collected datas
 For the 6 Dataset:
-1.Aggregated Transaction
-2.Aggregated User
-3.Map Transaction
-4.Map user
-5.Top Transaction 
-6.Top user
+
+1.Aggregated Transaction.
+2.Aggregated User.
+3.Map Transaction.
+4.Map user.
+5.Top Transaction .
+6.Top user.
 
 Data Cleaning
 1.After Crating all the dataframe, I cleaned the data for the process of identifying and correcting errors, inconsistencies,
