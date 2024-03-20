@@ -23,21 +23,27 @@ Data Collection:
 1.The first step is to collect data from the Github using the Github link. 2. Once created the clone of GIT-HUB repository then,
 imported required libraries for the program.
 2.Extracted from the Github link used to retrieve Aggregated Transaction, Aggregated User, Map Transaction, Map user, Top Transaction, Top user. 
-3.I have used this to connect direct path to get the data as states for Python to make requests to the Data and the responses are Collected as a Dictionary (Data Collection)
+3.I have used this to connect direct path to get the data as states for Python to make requests
+to the Data and the responses are Collected as a Dictionary (Data Collection)
 
 Create DataFrame:
 
 1.Once the Data Collection is done, then I used pandas to create dataframe for the collected datas
 For the 6 Dataset of
-1.Aggregated Transaction, 
-2.Aggregated User, 
-3.Map Transaction, 
-4.Map user,
-5.Top Transaction, 
+1.Aggregated Transaction
+2.Aggregated User
+3.Map Transaction
+4.Map user
+5.Top Transaction 
 6.Top user
 
-1.After Loading all the data into MongoDB, it is then migrated to a structured postgres data warehouse. 2.Then used SQL queries to join the tables and retrieve data for specific channels.
+Data Cleaning
+1.After Crating all the dataframe, I cleaned the data for the process of identifying and correcting errors, inconsistencies,
+and inaccuracies in a dataset to improve its quality and reliability. 
 
 Data Analysis and Data Visualization:
 
-1.With the help of SQL query, I have got many interesting insights about the youtube channels. 2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app. 3.Streamlit is used to create dashboard that allows users to visualize and analyze the data. 4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
+1.With the help of SQL query, I have got many interesting insights about the datas.
+2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app. 
+3.Streamlit is used to create dashboard that allows users to visualize and analyze the data.
+4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
