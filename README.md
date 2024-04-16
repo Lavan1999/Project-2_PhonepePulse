@@ -48,7 +48,4 @@ Data Analysis and Data Visualization:
 2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app. 
 3.Streamlit is used to create dashboard that allows users to visualize and analyze the data.
 4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
-![Screenshot (236)](https://github.com/Lavan1999/Project-2_PhonepePulse/assets/152668558/79d7ee28-6b88-41c3-9470-bc23400a5118)
-
-![Screenshot (238)](https://github.com/Lavan1999/Project-2_PhonepePulse/assets/152668558/37152454-ecc7-44ac-b2d7-e8da0b5d9c13)
 
