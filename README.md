@@ -49,3 +49,5 @@ Data Analysis and Data Visualization:
 3.Streamlit is used to create dashboard that allows users to visualize and analyze the data.
 4.Also used Plotly for the Data Visualization to create charts and graphs to analyze the data.
 
+![pp1](https://github.com/Lavan1999/Project-2_PhonepePulse/assets/152668558/1e735c33-a50b-40b5-a49f-5a25078c8e2e)
+![pp2](https://github.com/Lavan1999/Project-2_PhonepePulse/assets/152668558/71e63ac0-838e-4317-aa51-e9bebf31780d)
