@@ -1,6 +1,6 @@
 # Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 **LinkedIn Video Post: https://www.linkedin.com/feed/update/urn:li:activity:7180750658222895104/**
-Problem Statement:
+# Problem Statement:
 1. Extract data from the Phonepe pulse Github repository through scripting and
 clone it..
 2. Transform the data into a suitable format and perform any necessary cleaning
@@ -14,9 +14,9 @@ to display the data in an interactive and visually appealing manner.
 facts and figures to display on the dashboard.
 
 
-Workflow of the Project:
+# Workflow of the Project:
 
-Data Collection:
+# Data Collection:
 
 1.The first step is to collect data from the Github using the Github link. 
 2.Once created the clone of GIT-HUB repository then,imported required libraries for the program.
@@ -24,7 +24,7 @@ Data Collection:
 4.I have used this to connect direct path to get the data as states for Python to make requests
 to the Data and the responses are Collected as a Dictionary (Data Collection)
 
-Create DataFrame:
+# Create DataFrame:
 
 Once the Data Collection is done, then I used pandas to create dataframe for the collected datas
 For the 6 Dataset:
@@ -36,11 +36,11 @@ For the 6 Dataset:
 5.Top Transaction .
 6.Top user.
 
-Data Cleaning
+# Data Cleaning
 1.After Crating all the dataframe, I cleaned the data for the process of identifying and correcting errors, inconsistencies,
 and inaccuracies in a dataset to improve its quality and reliability. 
 
-Data Analysis and Data Visualization:
+# Data Analysis and Data Visualization:
 
 1.With the help of SQL query, I have got many interesting insights about the datas.
 2.Finally, the data retrieved from the SQL is displayed using the Streamlit Web app. 
